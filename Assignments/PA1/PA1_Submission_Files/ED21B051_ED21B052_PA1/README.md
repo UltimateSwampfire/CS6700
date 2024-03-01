@@ -1,0 +1,6 @@
+- The folder OPTIMISED_CASE contains 6 notebooks. Each notebook has two experiments, both have the same Learning Algorithm (SARSA or Q-Learning) and the same stochastic environment.
+- Each notebook covers two different states.
+- All the supporting python files are present in the OPTIMISED_CASE folder.
+- Each notebook has 4 runs, 2 of epsilon-greedy, 2 of softmax.
+-The folder BASE_CASE follows the exact same structure, except it uses untuned hyperparamters instead.
+- Running Instructions : All required helper files are in the same folder. Just run the notebook!
